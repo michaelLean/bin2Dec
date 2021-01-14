@@ -4,6 +4,7 @@
 
 ### https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md
 
+The solution was made with once with ReactJS and another version on html5, css and vanlla js .
 
 # User Stories
 
